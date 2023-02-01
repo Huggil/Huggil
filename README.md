@@ -1,4 +1,4 @@
-![Header](./wallhaven-757477)
+![Header](./wallhaven-757477.jpg)
 <h1 align="center">Hi 👋, I'm Hugo</h1>
 <h3 align="center">French passioniate but still learning fullstack Dev using // rails //react/Js</h3>
 
