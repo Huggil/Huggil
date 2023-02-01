@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hugopuillet@hotmail.fr**
 
-- 📄 Know about my experiences [Bootcamp with The Hacking Project, personal projects](Bootcamp with The Hacking Project, personal projects)
+- [Bootcamp with The Hacking Project, personal projects](Bootcamp with The Hacking Project, personal projects)
 
 - ⚡ Fun fact **funny/goofy , trying everyday to improve self-confidence**
 
